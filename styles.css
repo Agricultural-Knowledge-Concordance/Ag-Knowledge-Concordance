@@ -90,11 +90,11 @@ h3{font-size: 22px; margin:0 0 10px 0;}
 }
 .nav-title-text{
   font-family: "Crimson Pro", serif;
-  font-size: 36px;
+  font-size: 30px;
   color: var(--muted);
 }
 .nav-logo img{
-  width: 242px; height: 242px;
+  width: 142px; height: 142px;
   object-fit: contain;
 }
 
